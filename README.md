@@ -1,4 +1,4 @@
-### Hi there 👋
+![Katie Header GIF](https://github.com/katieraby/katieraby/blob/master/READMEkatieGIF.gif?raw=true)
 
 <!--
 **katieraby/katieraby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
