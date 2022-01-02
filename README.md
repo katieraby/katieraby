@@ -1,5 +1,8 @@
-![Katie Header GIF](https://github.com/katieraby/katieraby/blob/master/READMEkatieGIF.gif?raw=true)
+![Katie Header GIF](https://github.com/katieraby/katieraby/blob/master/katieraby-intro.gif?raw=true)
 
+
+## Find out more & get in touch 💌
+Find all my links ✨ [here](https://linktr.ee/katieraby) ✨
 <!--
 **katieraby/katieraby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
