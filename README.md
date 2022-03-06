@@ -1,14 +1,14 @@
 ![Katie Header GIF](https://github.com/katieraby/katieraby/blob/master/katieraby-intro.gif?raw=true)
 
-- Working on: MVP for my new blog site. Tech - NextJS, React, Tailwind CSS, Vercel
-- Learning: web3, working through advanced React/CSS courses (Epic React + Josh Comeau's CSS for JS developers) 
-- Specialising in: front-end at the day job, but I love working across the full-stack (T-shaped)
+- Working on: Improvements for my MVP blog site [katieraby.com](https://katieraby.com). Tech: Next, Tailwind, React, Vercel.
+- Learning: Advanced React/CSS courses (Epic React + Josh Comeau's CSS for JS developers), FrontendMasters courses. 
+- T-shaped software eng (front-end specialist working across the full JavaScript stack)
 - Blogging about: new posts coming soon!
 - Fun fact: I'm a language lover! (Not just coding languages). I have a degree in International Business and French.
 
 
 ## Find out more & get in touch 💌
-Find all my links ✨ [here](https://linktr.ee/katieraby) ✨
+Find all my links ✨ [here](https://katieraby.com/links) ✨
 <!--
 **katieraby/katieraby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
