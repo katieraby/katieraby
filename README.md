@@ -1,10 +1,10 @@
 ![Katie Header GIF](https://github.com/katieraby/katieraby/blob/master/katieraby-intro.gif?raw=true)
 
-- Working on: Improvements for my MVP blog site [katieraby.com](https://katieraby.com). Tech: Next, Tailwind, React, Vercel.
-- Learning: Advanced React/CSS courses (Epic React + Josh Comeau's CSS for JS developers), FrontendMasters courses. 
-- T-shaped software eng (front-end specialist working across the full JavaScript stack)
-- Blogging about: new posts coming soon!
-- Fun fact: I'm a language lover! (Not just coding languages). I have a degree in International Business and French.
+- Working on: Improvements for my blog site [katieraby.com](https://katieraby.com). Tech: Next, Tailwind, React, Vercel.
+- Learning: Advanced React/CSS courses, AWS & more 🌱
+- Reading: The DevOps Handbook by Gene Kim et al. 📖
+- Blogging about: Using testing-playground with React Testing Library 📝
+- Fun fact: I speak French and used to work at 🎆 Disneyland Paris 🎆
 
 
 ## Find out more & get in touch 💌
