@@ -1,9 +1,9 @@
 ![Katie Header GIF](https://github.com/katieraby/katieraby/blob/master/katieraby-intro.gif?raw=true)
 
 - Working on: Improvements for my blog site [katieraby.com](https://katieraby.com). Tech: Next, Tailwind, React, Vercel.
-- Learning: Advanced React/CSS courses, AWS & more 🌱
-- Reading: The DevOps Handbook by Gene Kim et al. 📖
-- Blogging about: Using testing-playground with React Testing Library 📝
+- Learning: All the things towards my AWS Certified Solutions Architect Associate exam 🌱
+- Reading: Change makers by Katy Murray 📖
+- Blogging about: AWS Global Infrastructure. More coming soon! 📝
 - Fun fact: I speak French and used to work at 🎆 Disneyland Paris 🎆
 
 
