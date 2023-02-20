@@ -1,11 +1,9 @@
 ![Katie Header GIF](https://github.com/katieraby/katieraby/blob/master/katieraby-intro.gif?raw=true)
 
-🇺🇸 **I'm going to AWS re:Invent 2022 in Las Vegas** 🇺🇸 
-
-- Working on: Improvements for my blog site [katieraby.com](https://katieraby.com). Tech: Next, Tailwind, React, Vercel.
+- Working on: Projects outside of my day job - AWS CDK, Vue, Auth0
 - Learning: All things serverless & also studying for my AWS Certified Solutions Architect Associate exam 🌱
-- Reading: Game of Thrones series, the Silmarillion, and Observability Engineering
-- Blogging about: My learning journey towards Certified Solutions Architect Associate.
+- Reading: the Silmarillion, the Witcher
+- Blogging about: EventBridge (coming soon!)
 - Fun fact: I speak French and used to work at 🎆 Disneyland Paris 🎆
 
 
