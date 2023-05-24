@@ -1,14 +1,16 @@
-![Katie Header GIF](https://github.com/katieraby/katieraby/blob/master/katieraby-intro.gif?raw=true)
+![](https://github.com/katieraby/katieraby/blob/master/header.png)
 
-- Working on: Projects outside of my day job - AWS CDK, Vue, Auth0
-- Learning: All things serverless & also studying for my AWS Certified Solutions Architect Associate exam 🌱
-- Reading: the Silmarillion, the Witcher
-- Blogging about: EventBridge (coming soon!)
+- Working on: Fun updates on my portfolio site [katieraby.com](https://katieraby.com). Tech: Next, Tailwind, React, Vercel.
+- Reading: Fantasy novels
+- Speaking about: Getting started with serverless using AWS Application Composer
 - Fun fact: I speak French and used to work at 🎆 Disneyland Paris 🎆
 
+☁️ Newly AWS Certified Solutions Architect Associate ☁️
 
 ## Find out more & get in touch 💌
+
 Find all my links ✨ [here](https://katieraby.com/links) ✨
+
 <!--
 **katieraby/katieraby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
