@@ -1,8 +1,8 @@
-![](https://github.com/katieraby/katieraby/blob/master/header.png)
+![](https://github.com/katieraby/katieraby/blob/master/xheader2024-2.png)
 
 - Working on: Advent of Code 2023. [Repo](https://github.com/katieraby/adventofcode) [Advent of Code](https://adventofcode.com/)
 - Reading: Iron Flame 🔥🐉
-- Speaking: Taking a break for the rest of 2023. Contact me RE 2024 opportunities 👁️‍🗨️
+- Speaking: Currently focusing on side projects + discovering new things - back soon!
 - Fun fact: I speak French and used to work at 🎆 Disneyland Paris 🎆
 
 ☁️ AWS Certified Solutions Architect Associate ☁️\
