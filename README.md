@@ -1,10 +1,21 @@
-- Working on: a fun and useful side project (info coming soon!)
-- Fun fact: I speak French and used to work at 🎆 Disneyland Paris 🎆
+<img width="260" height="60" alt="wordmark" src="https://github.com/user-attachments/assets/bc011881-5628-43fb-b8e9-f071a1970f4a" />                                   
+                                                                                                                    
+  A home for your professional and personal achievements. Capture them as they happen, back them up with evidence, and turn them into polished brag docs when performance reviews or job applications come knocking.                                                       
+                                                                                                                    
+  - Log wins instantly from any tab with the BragDoc Chrome extension                                                       
+  - Build a searchable archive — surface the right story by company, date, or tag                                   
+  - Export beautifully formatted PDFs of your achievements                                                          
+                                                                                                                    
+  Built with Next.js 15, React 19, DynamoDB, and AWS CDK. → [brag-doc.com](https://brag-doc.com) 
+
+-------------------
+
 
 ☁️ AWS Certified Solutions Architect Associate ☁️\
 ☁️ AWS Certified Cloud Practitioner ☁️
 
 ## Tech talks
+🗣️ "Prompt Engineering - the basics" - internal lightning talk
 🗣️ “Get Started with Serverless using AWS Application Composer” @ Manchester Serverless Devs ‘23\
 🗣 "Baking Bread with AWS Step Functions" - Katie Raby & Farhana Khan @ AWS Liverpool User Group\
 🗣 "re:Cap My re:Invent Experience 2022" @ AWS Liverpool User Group '23\
