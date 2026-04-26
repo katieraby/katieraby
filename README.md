@@ -15,7 +15,7 @@
 ☁️ AWS Certified Cloud Practitioner ☁️
 
 ## Tech talks
-🗣️ "Prompt Engineering - the basics" - internal lightning talk\
+🗣️ "Prompt Engineering - the basics" - internal lightning talk '26\
 🗣️ “Get Started with Serverless using AWS Application Composer” @ Manchester Serverless Devs ‘23\
 🗣 "Baking Bread with AWS Step Functions" - Katie Raby & Farhana Khan @ AWS Liverpool User Group\
 🗣 "re:Cap My re:Invent Experience 2022" @ AWS Liverpool User Group '23\
